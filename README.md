@@ -1,5 +1,6 @@
 # 💫 About Me:
 My name is Ashraf Mohamed, <br>I'm 21 years old. I was born in Sharqia and currently live in Mokattam.<br> I'm currently studying Information Systems at the New Cairo Institute.<br><br>I'm passionate about bodybuilding and software development. <br>I also work as a car wash owner. <br>I enjoy challenging myself physically and mentally,<br> and I'm committed to personal growth and development.
+Backend Developer with strong experience in building RESTful APIs using ASP.NET Core. Skilled in authentication & authorization (JWT), database design, and secure application development. Passionate about writing clean, scalable code and continuously improving software architecture skills. Seeking opportunities to grow in backend development and work on high-performance systems.
 
 
 ## 🌐 Socials:
